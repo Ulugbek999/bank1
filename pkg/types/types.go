@@ -62,7 +62,7 @@ type Status string
 
 //Предопределённые статусы платежей
 const(
-	statusOk Status = "OK"
-	statusFail Status = "FAIL"
-	statusInProgress Status = "INPROGRESS" 
+	StatusOk Status = "OK"
+	StatusFail Status = "FAIL"
+	StatusInProgress Status = "INPROGRESS" 
 )
